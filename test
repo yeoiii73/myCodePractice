@@ -1,0 +1,6 @@
+echo "# myCodePractice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:yeoiii73/myCodePractice.git
+git push -u origin master
